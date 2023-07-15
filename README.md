@@ -26,6 +26,14 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Qase-8A2BE2?style=for-the-badge)
 
+## Контакты
+<a href="https://t.me/Doublewiskey">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+</a>
+<a href="mailto:dmitriy.arkhipov.a@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
 
 
 
