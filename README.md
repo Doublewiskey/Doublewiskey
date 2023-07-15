@@ -3,6 +3,11 @@
 
 Я QA Engineer с фокусом на функциональном тестировании. У меня есть опыт работы с ручным тестированием веб-приложений, а также базовые знания SQL для работы с базами данных. Я обладаю хорошими коммуникативными навыками и умею эффективно работать в команде. Постоянно обучаюсь: читаю проф.литературу и статьи. Изучаю новые инструменты и стремлюсь к достижению высокого уровня качества продукта.
 
+## Моё резюме
+<a href="https://cheboksary.hh.ru/resume/7f09bd44ff0b73f54f0039ed1f444969375876">
+  <img src="https://hhcdn.ru/ichameleon/00181.png" height="50">
+</a>
+
 ## Skills
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
@@ -13,6 +18,8 @@
 ![Header](https://img.shields.io/badge/CharlesProxy-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Qase-8A2BE2?style=for-the-badge)
+
+
 
 
 
