@@ -10,6 +10,9 @@
 
 ### Тестовая документация
 - [Баг-репорты](https://github.com/Doublewiskey/Portfolio/tree/8510c9ee9c331d48501e65f815707797d81d5bbb/%D0%B1%D0%B0%D0%B3-%D1%80%D0%B5%D0%BF%D0%BE%D1%80%D1%82%D1%8B)
+- [Консоль](https://github.com/Doublewiskey/Portfolio/tree/8510c9ee9c331d48501e65f815707797d81d5bbb/%D0%BA%D0%BE%D0%BD%D1%81%D0%BE%D0%BB%D1%8C)
+- [Тест-кейсы](https://github.com/Doublewiskey/Portfolio/tree/8510c9ee9c331d48501e65f815707797d81d5bbb/%D1%82%D0%B5%D1%81%D1%82-%D0%BA%D0%B5%D0%B9%D1%81%D1%8B)
+- [Чек-листы](https://github.com/Doublewiskey/Portfolio/tree/8510c9ee9c331d48501e65f815707797d81d5bbb/%D1%87%D0%B5%D0%BA-%D0%BB%D0%B8%D1%81%D1%82%D1%8B)
 
 
 ## Skills
