@@ -9,7 +9,7 @@
 </a>
 
 ### Тестовая документация
-- (баг-репорты)
+- [Баг-репорты](https://github.com/Doublewiskey/Portfolio/tree/8510c9ee9c331d48501e65f815707797d81d5bbb/%D0%B1%D0%B0%D0%B3-%D1%80%D0%B5%D0%BF%D0%BE%D1%80%D1%82%D1%8B)
 
 
 ## Skills
