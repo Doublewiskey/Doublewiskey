@@ -7,7 +7,7 @@
 <a href="https://cheboksary.hh.ru/resume/7f09bd44ff0b73f54f0039ed1f444969375876">
   <img src="https://hhcdn.ru/ichameleon/00181.png" height="50">
 </a>
-<a href="[https://cheboksary.hh.ru/resume/7f09bd44ff0b73f54f0039ed1f444969375876](https://drive.google.com/file/d/130NPJv5sdhC7msdl3wv6lXxs3ilqWftz/view?usp=sharing)">
+<a href="https://cheboksary.hh.ru/resume/7f09bd44ff0b73f54f0039ed1f444969375876](https://drive.google.com/file/d/130NPJv5sdhC7msdl3wv6lXxs3ilqWftz/view?usp=sharing">
   <img src="https://img.shields.io/badge/CV-0893" height="50">
 </a>
 
